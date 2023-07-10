@@ -3,4 +3,4 @@
 a= 10
 b= 20
 
-print('Sum of numbers is': ", a+b)
+print('Subraction of numbers is': ", a-b)
